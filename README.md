@@ -1,2 +1,2 @@
 # PrimeServices.github.io
-at your serivce
+at your Service
